@@ -14,6 +14,9 @@ Feature Engineering
 Satandardization
 Model Building
 Predictions
+<img width="860" alt="Screenshot 2022-07-18 at 03 54 50" src="https://user-images.githubusercontent.com/100385953/179435023-4ccd1422-4623-4882-b263-d98976bda690.png">
+
+
 
 Heart disease is the major cause of morbidity and mortality globally: it accounts for more deaths annually than any other cause. According to the WHO, an estimated 17.9 million people died from heart disease in 2016, representing 31% of all global deaths. Over three quarters of these deaths took place in low- and middle-income countries.
 Of all heart diseases, coronary heart disease (aka heart attack) is by far the most common and the most fatal. In the United States, for example, it is estimated that someone has a heart attack every 40 seconds and about 805,000 Americans have a heart attack every year (CDC 2019).
